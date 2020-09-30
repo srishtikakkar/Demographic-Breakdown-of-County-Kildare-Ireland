@@ -3,3 +3,5 @@ The report analyses the Census data of the year 2016 for the County Kildare, Ire
 
 # Overview of the dataset
 The report provides information obtained through multiple analysis regarding the Age Structure, individual Gender Population and the Total Population of the county Kildare for the year 2016. This report will pay particular attention to the trends in Age Structure and highlight the most populated Age Group. It also sketches the proportion of Population of Sex in different Age Groups and accounts for the Age Group which are below or above the Median Population Percent.
+
+Finally, with some assumptions, we can predict the Male Population over the different Age Groups. In the first part of the project – Cleaning and Preprocessing the Data, I introduced the County Kildare Census dataset, cleaned the data and transformed it into a form suitable for further analysis. Secondly, I performed exploratory data analysis which helped to answer the questions above. A variety of packages were used for this exercise. Each analysis has been explained along with its codes.
